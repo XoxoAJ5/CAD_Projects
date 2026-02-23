@@ -1,0 +1,8 @@
+
+*.bak
+*.bck
+*.tmp
+*.lck
+*.idw
+
+*.DS_Store
